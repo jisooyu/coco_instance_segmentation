@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+imgaug
+Pillow
+numpy
+scikit-image
+scipy
+tqdm
+Shapely

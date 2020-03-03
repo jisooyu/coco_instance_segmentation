@@ -1,0 +1,16 @@
+*.MOV
+*.png
+*.jpeg
+*.jpg
+*.log
+.vscode/
+docs/
+Mask_RCNN/
+mrcnn_serving_ready/
+mrcnn_serving_ready_org/
+!python
+!notebooks
+!*.py
+!*.ipynb
+!*.pdf
+!*.odt
